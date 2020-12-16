@@ -1,0 +1,7 @@
+C:\Users\Cwaniak\source\repos\cw_csharp\cw_csharp\bin\Debug\cw_csharp.exe.config
+C:\Users\Cwaniak\source\repos\cw_csharp\cw_csharp\bin\Debug\cw_csharp.exe
+C:\Users\Cwaniak\source\repos\cw_csharp\cw_csharp\bin\Debug\cw_csharp.pdb
+C:\Users\Cwaniak\source\repos\cw_csharp\cw_csharp\obj\Debug\cw_csharp.csprojAssemblyReference.cache
+C:\Users\Cwaniak\source\repos\cw_csharp\cw_csharp\obj\Debug\cw_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Cwaniak\source\repos\cw_csharp\cw_csharp\obj\Debug\cw_csharp.exe
+C:\Users\Cwaniak\source\repos\cw_csharp\cw_csharp\obj\Debug\cw_csharp.pdb
